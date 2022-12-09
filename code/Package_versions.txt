@@ -1,0 +1,28 @@
+R version 4.2.2 (2022-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 22000)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.utf8  LC_CTYPE=C                              LC_MONETARY=English_United Kingdom.utf8
+[4] LC_NUMERIC=C                            LC_TIME=English_United Kingdom.utf8    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] tinytex_0.42         rmarkdown_2.18       ape_5.6-2            labeling_0.4.2       car_3.1-1           
+ [6] carData_3.0-5        svglite_2.1.0        ragg_1.2.4           tidyr_1.2.1          dplyr_1.0.10        
+[11] janitor_2.1.0        ggplot2_3.4.0        palmerpenguins_0.1.1
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.0  xfun_0.34         purrr_0.3.5       splines_4.2.2     lattice_0.20-45   snakecase_0.11.0 
+ [7] colorspace_2.0-3  vctrs_0.5.0       generics_0.1.3    htmltools_0.5.3   yaml_2.3.6        mgcv_1.8-41      
+[13] utf8_1.2.2        rlang_1.0.6       pillar_1.8.1      glue_1.6.2        withr_2.5.0       DBI_1.1.3        
+[19] lifecycle_1.0.3   stringr_1.4.1     munsell_0.5.0     gtable_0.3.1      evaluate_0.18     knitr_1.40       
+[25] fastmap_1.1.0     parallel_4.2.2    fansi_1.0.3       Rcpp_1.0.9        scales_1.2.1      abind_1.4-5      
+[31] farver_2.1.1      systemfonts_1.0.4 textshaping_0.3.6 digest_0.6.30     stringi_1.7.8     grid_4.2.2       
+[37] cli_3.4.1         tools_4.2.2       magrittr_2.0.3    tibble_3.1.8      pkgconfig_2.0.3   ellipsis_0.3.2   
+[43] Matrix_1.5-1      timechange_0.1.1  lubridate_1.9.0   assertthat_0.2.1  rstudioapi_0.14   R6_2.5.1         
+[49] nlme_3.1-160      compiler_4.2.2   
